@@ -1,2 +1,2 @@
-# my-awesome-repo
+# Quantum Computing
 Next-gen technology 
